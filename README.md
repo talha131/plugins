@@ -20,3 +20,9 @@ In case you like to improve existing services or even create your own custom int
 ## Learn more
 * Read the [documentation](docs/integration.md) to create your own service integration.
 * Get more information about [Franz](http://meetfranz.com).
+
+# What's new in fork
+
+1. Remove Evernote plugin. It causes issues in merging pull requests because of case. [See #99](https://github.com/meetfranz/plugins/issues/99)
+1. Merge [#219](https://github.com/meetfranz/plugins/pull/219)
+
