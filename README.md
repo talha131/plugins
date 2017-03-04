@@ -23,6 +23,7 @@ In case you like to improve existing services or even create your own custom int
 
 # What's new in fork
 
-1. Remove Evernote plugin. It causes issues in merging pull requests because of case. [See #99](https://github.com/meetfranz/plugins/issues/99)
-1. Merge [#219](https://github.com/meetfranz/plugins/pull/219)
+1. Add Google Spreadsheet [#176](https://github.com/meetfranz/plugins/pull/176)
+1. Change Facebook plugin: Badge now displays friend requests and notifications [#219](https://github.com/meetfranz/plugins/pull/219)
+1. Fix: Duplicate Evernote plugins [See #99](https://github.com/meetfranz/plugins/issues/99)
 
